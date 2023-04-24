@@ -10,3 +10,5 @@
 - Un lobo cuida a su loba
 
 - No se que poner
+
+- El punto de cocción óptimo para unos huevos de ramen es de 6 minutos
